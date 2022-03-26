@@ -2,18 +2,17 @@
 
 ## Group Number:2022EBU6305G41
 
-## Project Title:
+## Project Title: CookNow
 
 ## Members:
 
 Jiayi Yu,2019213168,190900023,jp2019213168@qmul.ac.uk
 
-Name, BUPT Student Number, QM Student Number, Email
+Tian Yang,2019213035,190899897, jp2019213035@qmul.ac.uk
 
-Name, BUPT Student Number, QM Student Number, Email
+Bolin Zhao,2019213197, 190900425, zhaobolin@bupt.edu.cn
 
-Name, BUPT Student Number, QM Student Number, Email
+Pai Yu,2019213278,190900034,jp2019213278@qmul.ac.uk
 
-Name, BUPT Student Number, QM Student Number, Email
 
-## Assigned TA:
+## Assigned TA: Xinyu Li
